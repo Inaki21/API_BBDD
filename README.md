@@ -12,8 +12,7 @@ Este proyecto implementa un asistente de viajes inteligente utilizando:
 
 - Interfaz web para hacer preguntas sobre viajes.
 - Consultas procesadas por LLaMA 3 (Groq).
-- Persistencia en PostgreSQL: historial de conversación guardado.
-- Configuración fácil con `.env`.
+- PostgreSQL: historial de conversación guardado.
 
 ---
 
@@ -25,25 +24,6 @@ Este proyecto implementa un asistente de viajes inteligente utilizando:
 - Preguntas generales sobre viajes (documentación, clima, seguridad...).
 
 ---
-
-## 🛠️ Instalación
-
-### 1. Clona el repositorio
-
-
-git clone https://github.com/tuusuario/travel-chatbot
-cd travel-chatbot
-
-
-### 2. Instala dependencias
-
-
-### 3. Crea un archivo .env
-
-
-
-### 4. Ejecuta el chatbot
-
 
 ### Estructura del proyecto
 
@@ -57,6 +37,7 @@ _API_POYECTO_VO
 ├── .env                 # Claves de entorno (no subir a GitHub)
 └── README.md            # Documentación
 
+Descargar el repositorio, ejecutar el main.py y tener ejecutado el servidor.
 
 ### SQL de la tabla
 
