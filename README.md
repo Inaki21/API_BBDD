@@ -59,7 +59,6 @@ CREATE TABLE IF NOT EXISTS conversations (
 LLaMA 3 70B (Versatile) desde la plataforma Groq.
 
 
-
 ## Contribuciones
 
 ¡Pull requests bienvenidos! Mejorar la UX, añadir autentificación, un admin panel, o exportación de logs.
