@@ -46,12 +46,12 @@ Descargar el repositorio, ejecutar el main.py y tener ejecutado el servidor.
 ### SQL de la tabla
 
 
-CREATE TABLE IF NOT EXISTS conversations (
-    id SERIAL PRIMARY KEY,
-    question TEXT NOT NULL,
-    answer TEXT NOT NULL,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+CREATE TABLE IF NOT EXISTS conversations (  
+    id SERIAL PRIMARY KEY,  
+    question TEXT NOT NULL,  
+    answer TEXT NOT NULL,  
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP  
+);  
 
 
 ## Modelo LLM usado
