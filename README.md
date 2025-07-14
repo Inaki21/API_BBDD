@@ -36,7 +36,7 @@ _API_POYECTO_VO
 ├── requirements.txt     # Lista de dependencias  
 └── README.md            # Documentación  
 
-Modelo ORM
+Modelo ORM  
 Un ORM (Object-Relational Mapping o Mapeo Objeto-Relacional) es una técnica de programación que permite la interacción con bases de datos relacionales a través de objetos de un lenguaje orientado a objetos, como Java, Python, etc. En lugar de escribir código SQL directamente, el ORM traduce las operaciones del objeto a consultas SQL y viceversa, facilitando el desarrollo y la gestión de datos.
 
 https://www.sqlalchemy.org/
