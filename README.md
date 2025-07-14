@@ -1,4 +1,4 @@
-# 🧳 Travel Chatbot AI (Groq + Streamlit + Render)
+#  Travel Chatbot AI (Groq + Streamlit + Render)
 
 Este proyecto implementa un asistente de viajes inteligente utilizando:
 
@@ -8,7 +8,7 @@ Este proyecto implementa un asistente de viajes inteligente utilizando:
 
 ---
 
-## 🚀 Características
+##  Características
 
 - Interfaz web para hacer preguntas sobre viajes.
 - Consultas procesadas por LLaMA 3 (Groq).
@@ -17,7 +17,7 @@ Este proyecto implementa un asistente de viajes inteligente utilizando:
 
 ---
 
-## 🧠 Casos de uso
+##  Casos de uso
 
 - Recomendaciones de destinos.
 - Consejos sobre transporte y alojamiento.
